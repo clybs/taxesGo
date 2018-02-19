@@ -66,10 +66,10 @@ $ 3, 10000, limited edition shoes
 $ 1, 5000, air guitar
 $
 $ 3, 33000.00, limited edition shoes
-$ 1, 550.00, air guitar
+$ 1, 5500.00, air guitar
 $
-$ Sales Taxes: 3050
-$ Total: 33550
+$ Sales Taxes: 3500
+$ Total:  38500
 ```
 ### Tests
 Run the tests:
